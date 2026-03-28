@@ -1,3 +1,10 @@
 pandas
 numpy
 scikit-learn
+dvc
+ipykernel
+seaborn
+matplotlib
+Flask
+mlflow==2.2.2
+xgboost
